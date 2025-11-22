@@ -1,5 +1,5 @@
-const apiKey="8bd4ccb39eb12fdc3d5e328802b097ec";
 //const apiUrl=`https://api.openweathermap.org/data/2.5/weather?q=egypt&units=metric&appid=${apiKey}`;
+console.log(apiKey);
 const searchBox=document.querySelector('.search input');
 const searchBtn=document.querySelector('.search button');
 const weatherIcon=document.querySelector('.weather-icon')
